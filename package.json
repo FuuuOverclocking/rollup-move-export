@@ -1,0 +1,12 @@
+{
+  "name": "rollup-move-export",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "rollup": "rollup -c ./rollup.config.js"
+  },
+  "devDependencies": {
+    "rollup": "^2.33.3"
+  }
+}
